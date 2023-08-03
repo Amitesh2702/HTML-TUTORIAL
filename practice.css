@@ -1,0 +1,291 @@
+/* /* /* h1 {
+  color: rgb(133, 2, 2);
+}
+p {
+  color: rgb(224, 13, 13);
+}
+button {
+  color: rgb(0, 255, 8);
+  background-color: grey;
+}
+body {
+  background-color: #ffff00;
+}
+#box {
+  background-color: blue;
+}
+button {
+  background-color: green;
+}
+.heading {
+  color: red;
+}
+h1{
+  text-align: center;
+  text-transform: capitalize;
+}
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+#ash{
+font-size: 25px;/
+} */
+/* #brock{
+font-size: 10px;
+} */
+/*body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+nav {
+  background-color: #444;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+  background-color: #666;
+}
+
+nav ul li a:hover {
+  background-color: #888;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Colors */
+/*
+:root {
+  /* --primary-color: #007bff; 
+  --secondary-color: #6c757d; 
+  --success-color: #28a745; 
+  --danger-color: #dc3545; 
+/* Update the colors for specific elements */
+/*nav ul li a {
+  background-color: var(--primary-color);
+}
+
+nav ul li a:hover {
+  background-color: var(--secondary-color);
+}
+
+section {
+  background-color: #f9f9f9;
+}
+
+ /*Responsive styles */
+/*@media screen and (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul li {
+    margin: 5px;
+  }
+
+  section {
+    padding: 10px;
+  }
+ }   */
+/* div {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+} */
+/* * {
+  padding: 0;
+  margin: 0;
+}
+#navbar {
+  height: 60px;
+  border: 10px double rgb(255, 255, 253);
+
+  background-color: rgb(19, 1, 1);
+}
+button {
+  background-color: rgb(162, 162, 43);
+}
+#logo {
+  color: rgb(172, 88, 88);
+}
+a {
+  margin-right: 200px;
+  color: white;
+}
+header {
+  background-color: black;
+}
+#moto {
+  display: flex;
+  height: 630px;
+}
+
+#div1 {
+  height: 100px;
+  width: 100px;
+  padding-left: 100px;
+  border-style: double;
+  border-color: blue;
+  background-color: rgba(255, 0, 0, 0.25);
+}
+#div2 {
+  height: 100px;
+  width: 100px;
+  padding-left: 100px;
+
+  border-style: double;
+  border-color: blue;
+  background-color: rgba(0, 255, 0, 0.25);
+}
+#div3 {
+  height: 100px;
+  width: 100px;
+  padding-left: 100px;
+
+  border-style: double;
+  border-color: blue;
+  background-color: rgba(0, 0, 255, 0.25);
+}
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+} */
+/* div {
+  height: 100px;
+  width: 100px;
+  background-image: url(box1_image.jpg);
+  background-size: cover;
+  position: fixed;
+  right: 0px;
+  top: 100px;
+} */
+/* 
+.navbar {
+  background-color: rgb(245, 173, 231);
+  display: flex;
+
+  justify-content: space-evenly;
+}
+a {
+  text-decoration: none;
+  background-color: aqua;
+}
+li {
+  list-style-type: none;
+} */
+/* .outer {
+  height: 500px;
+  width: 500px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+} */
+/* div {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+}
+@media (min-width: 300px) {
+  div {
+    background-color: green;
+  }
+}
+@media (min-width: 300px) and (min-width: 400px) {
+  div {
+    background-color: pink;
+  }
+}
+@media (min-width: 400px) and (min-width: 600px) {
+  div {
+    background-color: red;
+  }
+}
+@media (min-width: 600px) {
+  div {
+    background-color: blue;
+  }
+} */
+/* div {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border: 20px solid black;
+  border-top: 20px solid blue;
+  border-radius: 50%;
+  animation: loader 1s steps(4) 0s infinite normal;
+}
+@keyframes loader {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} */
